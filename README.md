@@ -11,7 +11,9 @@ Linear Programming <br/>
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
-![alt text](https://github.com/Vannerme/Disney/raw/master/dis.png "Logo Title Text 1")
+![alt text](
+        Disney/dis.PNG
+       "Logo Title Text 1")
 [Link](url)
 
 
