@@ -11,7 +11,7 @@ Linear Programming <br/>
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
-![](dis.png)
+![](https://github.com/Vannerme/Disney/blob/master/dis.PNG)
 [Link](url)
 
 
