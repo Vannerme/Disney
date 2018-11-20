@@ -11,18 +11,20 @@ Linear Programming <br/>
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
-
+![Image](src) <br/>
+[Link](url)
 
 
 
 ### Scenario #3: Minimum Path for Walking Distance(m)
-
+![Image](src) <br/>
+[Link](url)
 
 
 
 ### Scenario #4: Minimum Path with Constraint on Wait Time(min) not to exceed 35 minutes
-
-
+![Image](src) <br/>
+[Link](url)
 
 
 
