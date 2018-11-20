@@ -6,7 +6,9 @@ Data Normalizing <br/>
 Linear Programming <br/>
 
 ### Scenario #1: Minimization Path with equal weights to Walking Distance(m) and Wait Time(min)
-![](/dis.PNG) 
+![](
+        Disney/dis.PNG
+      ) 
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
