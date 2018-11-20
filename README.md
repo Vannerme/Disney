@@ -15,12 +15,28 @@ Linear Programming <br/>
 
 
 ### Scenario #3: Minimum Path for Walking Distance(m)
-![](dis.PNG) <br/>
-<br/>
-Time (HR) | Ride Name
------------- | -------------
-8 | Toon Ride
-9| Small World
+![](dis.PNG)
+
+
+| Order of Points | Attraction          |
+|-----------------|---------------------|
+| 8               | Toon Spin           |
+| 9               | Small World         |
+| 10              | Dumbo               |
+| 11              | Mad Tea             |
+| 12              | Matterhorn          |
+| 13              | Alice in Wonderland |
+| 14              | Peter Pan           |
+| 15              | Space Mtn           |
+| 16              | Star Tours          |
+| 17              | Buzz Lightyear      |
+| 18              | Tiki room           |
+| 19              | Pirates             |
+| 20              | Indiana Jones       |
+| 21              | Jungle Cruise       |
+| 22              | Thunder Mtn         |
+| 23              | Splash Mtn          |
+| 24              | Haunted Mansion     |
 
 
 
