@@ -6,23 +6,22 @@ Data Normalizing <br/>
 Linear Programming <br/>
 
 ### Scenario #1: Minimization Path with equal weights to Walking Distance(m) and Wait Time(min)
-![](https://github.com/Vannerme/Disney/blob/master/dis.png)
+![](dis.PNG)
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
-<[Link](url)
+
 
 
 
 ### Scenario #3: Minimum Path for Walking Distance(m)
-![Image](Disney/dis.PNG) <br/>
+
 
 
 
 
 ### Scenario #4: Minimum Path with Constraint on Wait Time(min) not to exceed 35 minutes
-![Image](src) <br/>
-[Link](url)
+
 
 
 
