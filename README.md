@@ -11,13 +11,13 @@ Linear Programming <br/>
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
-![Image](src) <br/>
+![alt text](https://github.com/Vannerme/Disney/raw/master/dis.png "Logo Title Text 1")
 [Link](url)
 
 
 
 ### Scenario #3: Minimum Path for Walking Distance(m)
-![Image](src) <br/>
+![Image](Disney/dis.PNG) <br/>
 [Link](url)
 
 
