@@ -18,7 +18,7 @@ Linear Programming <br/>
 
 ### Scenario #3: Minimum Path for Walking Distance(m)
 ![Image](Disney/dis.PNG) <br/>
-[Link](url)
+
 
 
 
