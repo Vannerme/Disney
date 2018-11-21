@@ -1,4 +1,4 @@
-# **Disney Ride Attraction Best Path Project**
+# **Disney Attraction Traveling Salesman Project**
 _Tags_: <br/>
 Scenario Analysis <br/>
 Tableau Geo Visualization <br/>
