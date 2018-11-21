@@ -6,7 +6,7 @@ Data Normalizing <br/>
 Linear Programming <br/>
 
 ### Scenario #1: Minimization Path with equal weights to Walking Distance(m) and Wait Time(min)
-
+![](dis.PNG)
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
@@ -15,29 +15,6 @@ Linear Programming <br/>
 
 
 ### Scenario #3: Minimum Path for Walking Distance(m)
-![](dis.PNG)
-
-
-| Order of Points | Attraction          |
-|-----------------|---------------------|
-| 8               | Toon Spin           |
-| 9               | Small World         |
-| 10              | Dumbo               |
-| 11              | Mad Tea             |
-| 12              | Matterhorn          |
-| 13              | Alice in Wonderland |
-| 14              | Peter Pan           |
-| 15              | Space Mtn           |
-| 16              | Star Tours          |
-| 17              | Buzz Lightyear      |
-| 18              | Tiki room           |
-| 19              | Pirates             |
-| 20              | Indiana Jones       |
-| 21              | Jungle Cruise       |
-| 22              | Thunder Mtn         |
-| 23              | Splash Mtn          |
-| 24              | Haunted Mansion     |
-
 
 
 
