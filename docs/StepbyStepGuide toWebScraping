@@ -1,0 +1,28 @@
+Step by Step Guide to Web Scraping
+
+1. Inspect the HTML. Go the table and right-click "inspect element"
+
+2. Load the required HTML packages
+import requests ->
+
+3. Request the HTML of the site
+website_url = requests.get(‘https://en.wikipedia.org/wiki/List_of_Asian_countries_by_area’).text
+
+4. Load the Beautiful Soup package
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(website_url,’lxml’)
+print(soup.prettify())
+
+5. find the table name you want to extract
+My_table = soup.find(‘table’,{‘class’:’wikitable sortable’})
+
+Now to extract all the links within <a>, we will use find_all().
+links=My_table.findAll('a')
+links
+
+6. Extract the names from column 1
+Countries = []
+for link in links:
+Countries.append(link.get('title'))
+
+

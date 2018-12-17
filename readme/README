@@ -1,0 +1,21 @@
+PROJECT_NAME FOLDER STRUCTURE REFERENCE
+
+DATA: stores the raw and updating data files for the project
+
+DOCS: instructions and supporting guides
+
+LICENSE: code or application licensing documents
+
+MODELS: source code for project models
+
+NOTEBOOKS: jupyter notepook source code
+
+README: project description and details
+
+REPORTS: results, graphs, and submission files
+
+REQUIREMENTS: required packages or libraries
+
+SRC: project source code
+
+

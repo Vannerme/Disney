@@ -1,0 +1,60 @@
+Step by Step Guide to Getting Started with Python
+
+1. Create a new PROJECT Folder under /home. Use the existing PROJECT folder as a template. Use the README file to document any important
+notes during work on the project
+
+2. Open Anaconda (anaconda-navigator) in the terminal. Either open Jupyter or Spyder to write the code. Make sure the code file is saved to the SRC folder within the PROJECT folder
+
+3. In the code itself, load the packages needed for code to run. If the same packages are going to be used for multiple projects, can create an "environment" in Anaconda to reuse with each project
+
+4. Read through the description of the project and develop a modeling goal in mind -(helpful guide TBD)
+
+5. Start by obtaining the data. Store all raw data files in the DATA folder of the PROJECT folder. Common methods include:
+	a- load a CSV or other delimited file
+	b- use a package (beautifulsoap) to screen scrape the data (TBD)
+	c- connect to a data API (TBD)
+	d- connect to a SQL database (TBD)
+
+6. Start profiling the data
+	a- TBD
+	b- TBD
+
+7. Start data prepping tasks
+	a- deduping
+	b- removing NULLS
+	c- 
+
+8. If not done already, seperate the data into TRAIN and TEST (50%/50%). Or TRAIN, TEST, VALIDATION (% TBD)
+
+9. Start conducting feature engineering
+	a-
+	b-
+	c-
+
+10. Determine the models to use -(some helpful guides TBD)
+
+11. Train the models using the TRAIN data
+
+12. Run the models against the TEST data
+
+13. Rank the models and determine best approach
+	a-confidence scores
+
+14. If using validation set, run the chosen model against VALIDATION
+
+15. If a Kaggle project, save the results in a SUBMISSION file in the DATA folder. Otherwise, save results as OUTPUT in the DATA folder
+
+16. Save model ranking results, features, and instructions in the README file
+
+17. Save any supporting material regarding model approach or the data in the REFERENCES folder
+
+18. Save any output, graphs or image files in the REPORTS folder
+
+19. Save any code to share on GITHUB
+
+20. For additional help, use the DOCS folder in the PROJECT folder for a step by step user guide, common functions, templates and coding tips
+
+** to run the file, using the Spyder IDE**
+
+
+
