@@ -1,21 +1,39 @@
-PROJECT_NAME FOLDER STRUCTURE REFERENCE
+## Disney Traveling Salesman Project##
+12/20/2018
+jon hager
 
-DATA: stores the raw and updating data files for the project
+Use the traveling salesman method and applied solver to develop a minimization method to determine
+the most efficient path to visit each ride at disney.
 
-DOCS: instructions and supporting guides
+Four Scenarios:
+Scenario 1: Best Overall Path
+Scenario 2: Minimum WaitTimes
+Scenario 3: Minimum Walk Distance
+Scenario 4: Minimum Walk Distance w/ WaitTimes < 35 mins
 
-LICENSE: code or application licensing documents
+Data:
+for disneyland:
+for disneyworld:https://www.parkgeni.us/disney-world/magic-kingdom
 
-MODELS: source code for project models
+Variables:
+WaitTime = Time in (min) wait for each ride
+RideName = Name of each attraction
 
-NOTEBOOKS: jupyter notepook source code
+#Tags
 
-README: project description and details
+#Models
+	Linear Programming
+#Python
+	Web Scraping (Beautiful Soup)
+	Pandas DataFrames
+	For Loops on URLs
+	Write to CSV
+#Other
+	Using Coordinate Data
+	Data Normalizazation
 
-REPORTS: results, graphs, and submission files
-
-REQUIREMENTS: required packages or libraries
-
-SRC: project source code
-
+#Tools
+Python
+Tableau
+Excel
 
