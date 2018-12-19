@@ -1,4 +1,4 @@
-# **Disney Attraction Traveling Salesman Project**
+﻿# **Disney Attraction Traveling Salesman Project**
 _Tags_: <br/>
 Scenario Analysis <br/>
 Tableau Geo Visualization <br/>
@@ -6,20 +6,20 @@ Data Normalizing <br/>
 Linear Programming <br/>
 
 ### Scenario #1: Minimization Path with equal weights to Walking Distance(m) and Wait Time(min)
-![](dis.gif)
+![](reports/dis.gif)
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
-![](diswait.PNG)
+![](reports/diswait.PNG)
 
 
 
 ### Scenario #3: Minimum Path for Walking Distance(m)
-![](diswalk.PNG)
+![](reports/diswalk.PNG)
 
 
 ### Scenario #4: Minimum Path with Constraint on Wait Time(min) not to exceed 35 minutes
-![](dis35.PNG)
+![](reports/dis35.PNG)
 
 
 
