@@ -10,7 +10,7 @@ Linear Programming <br/>
 
 
 ### Scenario #2: Minimum Path for Wait Time(min)
-![](diswait.PNG)
+![](reports/diswait.PNG)
 
 
 
