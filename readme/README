@@ -1,9 +1,10 @@
 ## Disney Traveling Salesman Project##
 12/20/2018
-jon hager
 
-Use the traveling salesman method and applied solver to develop a minimization method to determine
+Use the traveling salesman method and applied solver with linear programming to determine
 the most efficient path to visit each ride at disney.
+
+Tableau Notebook: https://public.tableau.com/views/FinalDisney/MKStory?:embed=y&:display_count=yes
 
 Four Scenarios:
 Scenario 1: Best Overall Path
@@ -36,4 +37,5 @@ RideName = Name of each attraction
 Python
 Tableau
 Excel
+
 
